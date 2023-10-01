@@ -1,0 +1,993 @@
+fileFormatVersion: 2
+guid: 3314f2464a64acb4f99d41aca4c63a84
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DinoSprites - doux_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2e68999fc36984887da3d3703505a9
+      internalID: 1039405226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoSprites - doux_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f3032af92daee4cbd9e0ba78b8d053
+      internalID: -1516950362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoSprites - doux_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a12cd14ad06b247bdc6d9a8d5a6f6d
+      internalID: 1988165707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoSprites - doux_3
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 0
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b6599ec53f6c342b3f3924d64ac4bc
+      internalID: -1557406137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoSprites - doux_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae631c7b7959b14ab986a0042154d2f
+      internalID: -1907838175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoSprites - doux_5
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf7e824fbc188d4ca84a0f24ce6ab81
+      internalID: -1564479856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoSprites - doux_6
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 0
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca36542f674a3cd4084bf410be8c3e27
+      internalID: -1980843471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoSprites - doux_7
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8c3074b8274d448bd07a8eb0686a1d
+      internalID: 10579793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoSprites - doux_8
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca42443c8fe72f43bfd667b960d8ea8
+      internalID: -1775589842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoSprites - doux_9
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 0
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532372a8e2e2890418906df9a8ac7cea
+      internalID: 1687679968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoSprites - doux_10
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7b9241606dc5743a30e43b8210f6cc
+      internalID: 1613992077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoSprites - doux_11
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 0
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50dc88bc39a86e44e8e44360aea51dbe
+      internalID: 2106403774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoSprites - doux_12
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 0
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a712bb744a341844a86c051518c3042
+      internalID: 967022760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoSprites - doux_13
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 0
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c775eef75537e64691a15d2c37a6b4d
+      internalID: 785012882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoSprites - doux_14
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 0
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9838f5d11eb370e4abb2e8140b1198f1
+      internalID: -2050979946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoSprites - doux_15
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 0
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112b91e7de189924bb420532e55dcbe8
+      internalID: 10883089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoSprites - doux_16
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 0
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cb5fd6998f50740bccf042ac0dd62b
+      internalID: 643351818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoSprites - doux_17
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 0
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e13d3b429201548aae14f41fe4a016
+      internalID: -518398234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoSprites - doux_18
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 0
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24114a22914179459b598de7060a40b
+      internalID: 1447701903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoSprites - doux_19
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 0
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7bba3bdc7b6dd429edfa76c02df552
+      internalID: 84415138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoSprites - doux_20
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 0
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97ae9217f2dab54d9bb01ce2c487560
+      internalID: -1304279827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoSprites - doux_21
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 0
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b3abe2da31b784f81cbb6c548259c1
+      internalID: 1612156801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoSprites - doux_22
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 0
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9f71c3aeb80274c89b8b79bc365f17
+      internalID: 886900646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoSprites - doux_23
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 0
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce84bf65ee882f34c821b950d46369b0
+      internalID: -315073949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoSprites - doux_24
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 0
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639ebfe1ef8a87440a215e9fc0b87213
+      internalID: 470160236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoSprites - doux_25
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 0
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5fa689397115e42a675c8c706bad90
+      internalID: 1952648789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoSprites - doux_26
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 0
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bf1c817e720fd4ab1caeb60a4a02b3
+      internalID: 1378008035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DinoSprites - doux_27
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 0
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: 10, y: 0}
+        - {x: 0, y: 12}
+        - {x: -10, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29679d046982a964392da308ebe70222
+      internalID: -1569480211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DinoSprites - doux_0: 1039405226
+      DinoSprites - doux_1: -1516950362
+      DinoSprites - doux_10: 1613992077
+      DinoSprites - doux_11: 2106403774
+      DinoSprites - doux_12: 967022760
+      DinoSprites - doux_13: 785012882
+      DinoSprites - doux_14: -2050979946
+      DinoSprites - doux_15: 10883089
+      DinoSprites - doux_16: 643351818
+      DinoSprites - doux_17: -518398234
+      DinoSprites - doux_18: 1447701903
+      DinoSprites - doux_19: 84415138
+      DinoSprites - doux_2: 1988165707
+      DinoSprites - doux_20: -1304279827
+      DinoSprites - doux_21: 1612156801
+      DinoSprites - doux_22: 886900646
+      DinoSprites - doux_23: -315073949
+      DinoSprites - doux_24: 470160236
+      DinoSprites - doux_25: 1952648789
+      DinoSprites - doux_26: 1378008035
+      DinoSprites - doux_27: -1569480211
+      DinoSprites - doux_3: -1557406137
+      DinoSprites - doux_4: -1907838175
+      DinoSprites - doux_5: -1564479856
+      DinoSprites - doux_6: -1980843471
+      DinoSprites - doux_7: 10579793
+      DinoSprites - doux_8: -1775589842
+      DinoSprites - doux_9: 1687679968
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
